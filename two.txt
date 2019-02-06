@@ -1,0 +1,6 @@
+download a propject
+git clone <URL>
+
+
+To vioew your current branch
+git branch
